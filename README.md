@@ -140,7 +140,7 @@ Base URL (Render):
 
 ---
 
-###🔹 1. REGISTER USER
+### 🔹 1. REGISTER USER
 
 `POST /api/auth/register`
 
