@@ -238,7 +238,7 @@ Authorization: Bearer <token>
 
 ---
 
-##🛠 Environment Variables Summary
+## 🛠 Environment Variables Summary
 
 ```
 PORT=5000
